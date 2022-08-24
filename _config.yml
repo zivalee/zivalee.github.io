@@ -112,7 +112,7 @@ content:
           - Developed Slack chatbot for Mandarin oncall engineers to improve efficiency 
             - services used: <mark>API Gateway</mark>, <mark>SQS</mark>, <mark>DynamoDB</mark>, <mark>Lex</mark>, <mark>SNS</mark>
           - Designed serverless log analysis pipeline for visualized weekly report generation  
-            - services used: <mark>Lambda</mark>, <mark>DynamoDB</mark>, <mark>QuickSight</mark>
+            - services used: <mark>Lambda</mark>, DynamoDB, <mark>QuickSight</mark>
           - Established mapping rules of Chinese cases using character frequency
 
       - layout: left
