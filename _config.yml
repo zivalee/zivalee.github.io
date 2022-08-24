@@ -138,7 +138,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - Thesis topic: Cost-Effective Autoscaler under Event-Driven Architecture (Apache Kafka)
+          - Thesis topic: Cost-Effective Autoscaler under Event-Driven Architecture
           - Relevant Coursework: Advanced Computer Algorithms, Operating System, Parallel Programming, Information Security
           - Dean’s List, Cumulative GPA 4.28 / 4.3
       
@@ -150,6 +150,10 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           - Dean’s List, Cumulative GPA 4.0 / 4.0
+          - Award: 2017 Cathay Insurance Big Data Competition 
+            - [Championship](https://www.chinatimes.com/newspapers/20180109000305-260205?chdtv)
+            - Predicted the possibilities of insurance claims and the correlations between policies through data analysis
+
 
 
   - title: More About Me
@@ -160,9 +164,12 @@ content:
       - Working out
       - Cycling
       - Volunteering
-        - NCUE International Goodwill Ambassadors. I hosted welcoming activities for more than 30 exchange students. 
-        - Translator & Live Interpreter @ [HITCON PEACE 2022](https://hitcon.org/2022/). I interpreted for one session and translated agenda info. 
-        - Translator @ UbuCon Asia 2021. I translated 3 videos to Mandarin or English.
+        - NCUE International Goodwill Ambassadors. 
+          - I hosted welcoming activities for more than 30 exchange students. 
+        - Translator & Live Interpreter @ [HITCON PEACE 2022](https://hitcon.org/2022/). 
+          - I interpreted for one session and translated agenda info. 
+        - Translator @ UbuCon Asia 2021. 
+          - I translated 3 videos to Mandarin or English.
           - [Welcome message from Mark Shuttleworth](https://www.youtube.com/watch?v=RIfRIS9Xa9I)
           - [OEM metapackages & Concourse CI](https://www.youtube.com/watch?v=1yJsTnPlN7A&t=578s)
           - [Promote Ubuntu localization of the ethnic minorities in China](https://www.youtube.com/watch?v=0vFovPpP0LQ&t=107s)
