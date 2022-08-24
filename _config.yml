@@ -109,7 +109,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           - Refactored and upgraded Slack notification bot to Slack App for better interactivity
-          - Developed Slack chatbot for Mandarin oncall engineers to improve efficiency 
+          - Developed Slack chatbot to save 28% of time for Mandarin oncall engineers to improve efficiency
             - services used: <mark>API Gateway</mark>, <mark>SQS</mark>, <mark>DynamoDB</mark>, <mark>Lex</mark>, <mark>SNS</mark>
           - Designed serverless log analysis pipeline for visualized weekly report generation  
             - services used: <mark>Lambda</mark>, DynamoDB, <mark>QuickSight</mark>
