@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ziva Li
-title: Software Engineer | Cloud Engineer
+title: Software Engineer | Backend Engineer | Cloud Engineer
 email: zivalee87@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ziva. Welcom to my page!
+  Hey, this is Ziva. Welcom to my page!
 
   I am most skilled in: <mark>Java</mark>, <mark>Python</mark>, <mark>AWS</mark>, <mark>Linux</mark> and <mark>Apache Kafka</mark>
   - Certificate: Google Cloud Certified Associate Cloud Engineer
@@ -132,7 +132,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: National Yang Ming Chiao Tung University, Taiwan
+        title: National Yang Ming Chiao Tung University (Former National Chiao Tung University, NCTU), Taiwan
         caption: 2020 - 2022
         sub_title: Master of Science, Information Management
         # quote: >
@@ -150,8 +150,8 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           - Dean’s List, Cumulative GPA 4.0 / 4.0
-          - Award: 2017 Cathay Insurance Big Data Competition 
-            - [Championship](https://www.chinatimes.com/newspapers/20180109000305-260205?chdtv)
+          - Award: 2017 Cathay Insurance Big Data Competition
+            - <a href="https://www.chinatimes.com/newspapers/20180109000305-260205?chdtv" target="_blank">Championship</a>
             - Predicted the possibilities of insurance claims and the correlations between policies through data analysis
 
 
@@ -163,13 +163,13 @@ content:
       - Volunteering
         - NCUE International Goodwill Ambassadors
           - Hosted welcoming activities for more than 30 exchange students. 
-        - Translator & Mandarin-English Interpreter @ [HITCON PEACE 2022](https://hitcon.org/2022/)
+        - Translator & Mandarin-English Interpreter @ <a href="https://hitcon.org/2022/" target="_blank">HITCON PEACE 2022</a>
           - Interpreted for one session and translated agenda info. 
-        - Translator @ [UbuCon Asia 2021](https://2021.ubucon.asia/zh-hant-tw/)
+        - Translator @ <a href="https://2021.ubucon.asia/zh-hant-tw/" target="_blank">UbuCon Asia 2021</a>
           - Translated 3 videos to Mandarin or English.
-          - [Welcome message from Mark Shuttleworth](https://www.youtube.com/watch?v=RIfRIS9Xa9I)
-          - [OEM metapackages & Concourse CI](https://www.youtube.com/watch?v=1yJsTnPlN7A&t=578s)
-          - [Promote Ubuntu localization of the ethnic minorities in China](https://www.youtube.com/watch?v=0vFovPpP0LQ&t=107s)
+          - <a href="https://www.youtube.com/watch?v=RIfRIS9Xa9I" target="_blank">Welcome message from Mark Shuttleworth</a>
+          - <a href="https://www.youtube.com/watch?v=1yJsTnPlN7A&t=578s" target="_blank">OEM metapackages & Concourse CI</a>
+          - <a href="https://www.youtube.com/watch?v=0vFovPpP0LQ&t=107s" target="_blank">Promote Ubuntu localization of the ethnic minorities in China</a>
       - Rock Climbing ⛰️
       - Working out 💪
       - Cycling 🚲
