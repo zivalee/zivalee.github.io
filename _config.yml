@@ -71,7 +71,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way to learn <mark>Vue</mark> and <mark>Flask</mark>. After a visit to local shelter, I realized how difficult for stray animals to be adopted. Therefore, I built this animal adotion site using government open data to promote adoption. I have learned and polished my skills through this process and been I'm very proud of having it in my portfolio.
+          I started this project as a way to learn <mark>Vue</mark> and <mark>Flask</mark>. After a visit to local shelter, I realized how difficult for stray animals to be adopted. Therefore, I built this animal adotion site using government open data to promote animal adoption. I have learned and polished my skills through this process and I'm very proud of having it in my portfolio.
 
       - layout: top-middle
         title: Cost-Effective Autoscaler under Event-Driven Architecture
@@ -88,12 +88,12 @@ content:
           Thesis work. Self-learned Apache Kafka, Kubernetes, and monitoring stack. Had loads of fun!
         description: | # this will include new lines to allow paragraphs
           Proposed a cost-effective autoscaler for Kafka consumers based on queueing theory. Tech Stack:
-          - Apache Kafka
-          - Kubernetes
-          - InfluxDB
-          - Prometheus & Grafana
-          - JMX Exporter
-          - Loki
+          - <mark>Apache Kafka</mark>
+          - <mark>Kubernetes</mark>
+          - <mark>InfluxDB</mark>
+          - <mark>Prometheus & Grafana</mark>
+          - <mark>JMX Exporter</mark>
+          - <mark>Loki</mark>
 
 
   - title: Experience # Title for the section
@@ -110,9 +110,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Refactored and upgraded Slack notification bot to Slack App for better interactivity
           - Developed Slack chatbot for Mandarin oncall engineers to improve efficiency 
-            - services used: API Gateway, SQS, DynamoDB, Lex, SNS
+            - services used: <mark>API Gateway</mark>, <mark>SQS</mark>, <mark>DynamoDB</mark>, <mark>Lex</mark>, <mark>SNS</mark>
           - Designed serverless log analysis pipeline for visualized weekly report generation  
-            - services used: Lambda, DynamoDB, QuickSight
+            - services used: <mark>Lambda</mark>, <mark>DynamoDB</mark>, <mark>QuickSight</mark>
           - Established mapping rules of Chinese cases using character frequency
 
       - layout: left
@@ -124,7 +124,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          - Developed a RWD user-friendly event signup website with Vue, Java Spring Boot, and PostgreSQL for almost 100,000 Cathay Groups staff
+          - Developed a RWD user-friendly event signup website with Vue, <mark>Java Spring Boot</mark>, and <mark>PostgreSQL</mark> for almost 100,000 Cathay Groups staff
           - Established clear dashboards for the management system to improve efficiency     
 
 
@@ -160,19 +160,20 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in software engineering, some of my other interests are:
-      - Rock Climbing
-      - Working out
-      - Cycling
       - Volunteering
-        - NCUE International Goodwill Ambassadors. 
-          - I hosted welcoming activities for more than 30 exchange students. 
-        - Translator & Live Interpreter @ [HITCON PEACE 2022](https://hitcon.org/2022/). 
-          - I interpreted for one session and translated agenda info. 
-        - Translator @ UbuCon Asia 2021. 
-          - I translated 3 videos to Mandarin or English.
+        - NCUE International Goodwill Ambassadors
+          - Hosted welcoming activities for more than 30 exchange students. 
+        - Translator & Mandarin-English Interpreter @ [HITCON PEACE 2022](https://hitcon.org/2022/)
+          - Interpreted for one session and translated agenda info. 
+        - Translator @ [UbuCon Asia 2021](https://2021.ubucon.asia/zh-hant-tw/)
+          - Translated 3 videos to Mandarin or English.
           - [Welcome message from Mark Shuttleworth](https://www.youtube.com/watch?v=RIfRIS9Xa9I)
           - [OEM metapackages & Concourse CI](https://www.youtube.com/watch?v=1yJsTnPlN7A&t=578s)
           - [Promote Ubuntu localization of the ethnic minorities in China](https://www.youtube.com/watch?v=0vFovPpP0LQ&t=107s)
+      - Rock Climbing ⛰️
+      - Working out 💪
+      - Cycling 🚲
+      
 # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 # ![Trees](images/landscape-trees.jpg "Trees")
 
