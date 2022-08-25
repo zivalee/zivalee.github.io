@@ -51,8 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hey, this is Ziva. Welcom to my page!
 
   I am most skilled in: <mark>Java</mark>, <mark>Python</mark>, <mark>AWS</mark>, <mark>Linux</mark> and <mark>Apache Kafka</mark>
-  - Certificate: Google Cloud Certified Associate Cloud Engineer
   - English: TOEIC 985, IELTS 7.5
+  - Certificate: Google Cloud Certified Associate Cloud Engineer
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -149,11 +150,10 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - Dean’s List, Cumulative GPA 4.0 / 4.0
           - Award: 2017 Cathay Insurance Big Data Competition
             - <a href="https://www.chinatimes.com/newspapers/20180109000305-260205?chdtv" target="_blank">Championship</a>
             - Predicted the possibilities of insurance claims and the correlations between policies through data analysis
-
+          - Dean’s List, Cumulative GPA 4.0 / 4.0
 
 
   - title: More About Me
